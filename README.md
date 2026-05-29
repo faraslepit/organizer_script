@@ -33,8 +33,8 @@
 ## Установка
 
 ```bash
-git clone <url-репозитория>
-cd <папка-проекта>
+git clone https://github.com/faraslepit/organizer_script
+cd organizer_script
 chmod +x organizer.sh
 ```
 
